@@ -1,0 +1,42 @@
+[
+  {
+    "level": 1,
+    "name": "Preschool"
+  },
+  {
+    "level": 2,
+    "name": "Lower Primary"
+  },
+  {
+    "level": 3,
+    "name": "Upper Primary"
+  },
+  {
+    "level": 4,
+    "name": "Middle School"
+  },
+  {
+    "level": 5,
+    "name": "High School"
+  },
+  {
+    "level": 6,
+    "name": "Community College / Lower division"
+  },
+  {
+    "level": 7,
+    "name": "College / Upper division"
+  },
+  {
+    "level": 8,
+    "name": "Graduate / Progressional"
+  },
+  {
+    "level": 9,
+    "name": "Career / Technical"
+  },
+  {
+    "level": 10,
+    "name": "Adult Education"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "level": 1,
+    "name": "Barnehage/førskole"
+  },
+  {
+    "level": 2,
+    "name": "Barnetrinn"
+  },
+  {
+    "level": 3,
+    "name": "Mellomtrinn"
+  },
+  {
+    "level": 4,
+    "name": "Ungdomsstrinn"
+  },
+  {
+    "level": 5,
+    "name": "Videregående"
+  },
+  {
+    "level": 6,
+    "name": "Universitet"
+  },
+  {
+    "level": 9,
+    "name": "Voksenopplæring"
+  },
+  {
+    "level": 10,
+    "name": "Etterutdanning"
+  }
+]
