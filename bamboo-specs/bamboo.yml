@@ -17,10 +17,10 @@ Create package:
 
         cd code &&
         rm -rf .git &&
-        tar czvf ../staticdata.tar.gz ./
+        tar czvf ../static-data.tar.gz ./
   artifacts:
-    - name: staticdata.tar.gz
+    - name: static-data.tar.gz
       location: ./
-      pattern: staticdata.tar.gz
+      pattern: static-data.tar.gz
       required: true
       shared: true
