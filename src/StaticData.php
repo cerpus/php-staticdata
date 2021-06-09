@@ -1,4 +1,5 @@
 <?php
+
 namespace Cerpus\StaticData;
 
 
@@ -30,6 +31,7 @@ class StaticData
 
     /**
      * Attempts to normalize a language string.
+     *
      * @param  string  $language
      *
      * @return string
