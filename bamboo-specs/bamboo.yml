@@ -1,0 +1,26 @@
+---
+version: 2
+plan:
+  project-key: BCP
+  key: STATICDATA
+  name: Composer package - Static data
+stages:
+  - Build:
+    - Create package
+
+Create package:
+  tasks:
+    - script: |
+        rm -rf code &&
+        mkdir -p code &&
+        (mv * .* code/ || true) &&
+
+        cd code &&
+        rm -rf .git &&
+        tar czvf ../static-data.tar.gz ./
+  artifacts:
+    - name: static-data.tar.gz
+      location: ./
+      pattern: static-data.tar.gz
+      required: true
+      shared: true
