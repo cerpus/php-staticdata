@@ -1,34 +1,42 @@
 [
   {
     "level": 1,
-    "name": "Barnehage/førskole"
+    "name": "4-5 år"
   },
   {
     "level": 2,
-    "name": "Barnetrinn"
+    "name": "6-7 år"
   },
   {
     "level": 3,
-    "name": "Mellomtrinn"
+    "name": "8-9 år"
   },
   {
     "level": 4,
-    "name": "Ungdomsstrinn"
+    "name": "10-12 år"
   },
   {
     "level": 5,
-    "name": "Videregående"
+    "name": "13-15 år"
   },
   {
     "level": 6,
-    "name": "Universitet"
+    "name": "16-18 år"
+  },
+  {
+    "level": 7,
+    "name": "Fagskole"
+  },
+  {
+    "level": 8,
+    "name": "Høyskole/Universitet"
   },
   {
     "level": 9,
-    "name": "Voksenopplæring"
+    "name": "Profesjonell utvikling"
   },
   {
     "level": 10,
-    "name": "Etterutdanning"
+    "name": "Annet"
   }
 ]
