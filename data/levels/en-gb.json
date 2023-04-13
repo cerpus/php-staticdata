@@ -1,42 +1,42 @@
 [
   {
     "level": 1,
-    "name": "Preschool"
+    "name": "4-5 years"
   },
   {
     "level": 2,
-    "name": "Lower Primary"
+    "name": "6-7 years"
   },
   {
     "level": 3,
-    "name": "Upper Primary"
+    "name": "8-9 years"
   },
   {
     "level": 4,
-    "name": "Middle School"
+    "name": "10-12 years"
   },
   {
     "level": 5,
-    "name": "High School"
+    "name": "13-15 years"
   },
   {
     "level": 6,
-    "name": "Community College / Lower division"
+    "name": "16-18 years"
   },
   {
     "level": 7,
-    "name": "College / Upper division"
+    "name": "Vocational and Technical Education"
   },
   {
     "level": 8,
-    "name": "Graduate / Progressional"
+    "name": "Academic Education"
   },
   {
     "level": 9,
-    "name": "Career / Technical"
+    "name": "Professional Development"
   },
   {
     "level": 10,
-    "name": "Adult Education"
+    "name": "Other"
   }
 ]
